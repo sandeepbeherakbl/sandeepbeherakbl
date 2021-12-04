@@ -26,7 +26,8 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 <hr>
-<p align="left">&nbsp;
-<a><img  src="https://github-readme-stats.vercel.app/api?username=sandeepbeherakbl&show_icons=true&locale=en" alt="sandeepbeherakbl"/></a>
+<p align="left">
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepbeherakbl&show_icons=true&locale=en&layout=compact" alt="sandeepbeherakbl"/></a>
+<a><img  src="https://github-readme-stats.vercel.app/api?username=sandeepbeherakbl&show_icons=true&locale=en" alt="sandeepbeherakbl"/></a>
+
 </p>
