@@ -29,4 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepbeherakbl&show_icons=true&locale=en&layout=compact" alt="sandeepbeherakbl" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sandeepbeherakbl&show_icons=true&locale=en" alt="sandeepbeherakbl" height="400" height="100"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sandeepbeherakbl&show_icons=true&locale=en" alt="sandeepbeherakbl" width="700" height="130"/></p>
