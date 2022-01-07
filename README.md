@@ -26,7 +26,3 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 <hr>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepbeherakbl&show_icons=true&locale=en&layout=compact" alt="sandeepbeherakbl" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sandeepbeherakbl&show_icons=true&locale=en" alt="sandeepbeherakbl" width="700" height="130"/></p>
