@@ -2,9 +2,13 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Behera</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
-- 🌱 I’m currently learning **MERN stacak**
+- 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **sandeepbeherakbl@gmail.com**
+
+- <a href="" target="blank">My Resume</a>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
