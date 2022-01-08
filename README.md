@@ -6,7 +6,9 @@
 
 - 📫 How to reach me **sandeepbeherakbl@gmail.com**
 
-- <a href="" target="blank">My Resume</a>
+- <a href="https://drive.google.com/file/d/1HXQPJ6VtdwWclpmrXxsDmFRmX12t61FM/view?usp=sharing" target="blank">My Resume</a>
+
+- - <a href="sandeepbeherakbl.github.io" target="blank">My Portfolio</a>
 
 
 
