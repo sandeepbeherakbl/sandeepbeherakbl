@@ -1,11 +1,20 @@
+<img align="center" src="https://raw.githubusercontent.com/sandeepbeherakbl/sandeepbeherakbl/main/20220105_163905.jpg"/>
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Behera</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
-- 🌱 I’m currently learning **MERN stacak**
+- 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **sandeepbeherakbl@gmail.com**
 
+<<<<<<< HEAD
 - <a href="" target="blank">My Resume</a>
+=======
+- <a href="https://drive.google.com/file/d/1HXQPJ6VtdwWclpmrXxsDmFRmX12t61FM/view?usp=sharing" target="blank">My Resume</a>
+
+- <a href="sandeepbeherakbl.github.io" target="blank">My Portfolio</a>
+
+
+>>>>>>> 110a9eb0e68f7134a91163ca647e44900a5befd1
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,6 +37,7 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 <hr>
+<<<<<<< HEAD
 
 
 <style>
@@ -190,3 +200,5 @@ height: 400px;
       </div>
     </div>
   </section>
+=======
+>>>>>>> 110a9eb0e68f7134a91163ca647e44900a5befd1
