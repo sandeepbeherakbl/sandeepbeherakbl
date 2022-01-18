@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sandeepbeherakbl@gmail.com**
 
-<h1>Tech-Stack</h1>
+<h1 align="center" >Tech-Stack</h1>
 <p align="center">
       <img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
       />
@@ -28,7 +28,7 @@
 
 </hr>
 
-<h1>Contact</h1>
+<h1 align="center" >Contact</h1>
 <p align="center">
     <a href="https://www.instagram.com/_blue.beast_/">
   <img
