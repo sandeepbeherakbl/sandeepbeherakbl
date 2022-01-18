@@ -30,7 +30,7 @@
 
 <h1>Contact</h1>
 <p align="center">
-    <a href="https://www.instagram.com/_blue.beast_/" target="blank">
+    <a href="https://www.instagram.com/_blue.beast_/">
   <img
     alt="Instagram"
     src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
