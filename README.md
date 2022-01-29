@@ -1,5 +1,5 @@
 <h1>
-      <img src="readme img.jpg" />
+      <img src="20220126_061013.jpg" />
 </h1>
 
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Behera</h1>
