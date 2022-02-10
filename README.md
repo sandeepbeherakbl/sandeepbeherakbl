@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **MERN stacak**
 
-- 📫 How to reach me **sandeepbeherakbl@gmail.com**
+- 📫 How to reach me mail <a href="sandeepbeherakbl@gmail.com">
 
-<p>Hi Everyone, I am Sandeep Kumar Behera from Odisha, India. I am an aspiring full stack web developer with experience in effective collaboration and a keen interest in solving problems and coming up with effective solutions. With a good understanding of Data Structures and Algorithms, proficiency in React, and with a good hold on MERN stack.</p>
+<p>I am an aspiring full stack web developer with experience in effective collaboration and a keen interest in solving problems and coming up with effective solutions. With a good understanding of Data Structures and Algorithms, proficiency in React, and with a good hold on MERN stack.</p>
 
 <h1 align="center" >Tech-Stack</h1>
 <p align="center">
