@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **sandeepbeherakbl@gmail.com**
 
+<p>Hi Everyone, I am Sandeep Kumar Behera from Odisha, India. I am an aspiring full stack web developer with experience in effective collaboration and a keen interest in solving problems and coming up with effective solutions. With a good understanding of Data Structures and Algorithms, proficiency in React, and with a good hold on MERN stack.</p>
+
 <h1 align="center" >Tech-Stack</h1>
 <p align="center">
       <img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
