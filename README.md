@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stacak**
 
-- 📫 How to reach me **sandeepbeherakbl@gmail.com**
-- [email](sandeepbeherakbl@gmail.com)
+- 📫 How to reach me [Email](sandeepbeherakbl@gmail.com)
 
 <p align="center">I am an aspiring full stack web developer with experience in effective collaboration and a keen interest in solving problems and coming up with effective solutions. With a good understanding of Data Structures and Algorithms, proficiency in React, and with a good hold on MERN stack.</p>
 
