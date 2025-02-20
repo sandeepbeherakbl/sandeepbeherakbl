@@ -1,7 +1,7 @@
 ![Sandeep Kumar Behera](20220126_061013.jpg)
 
-<h1 align="center">Hi 👋, I'm Sandeep Kumar Behera</h1>
-<h3 align="center">A Passionate Full Stack Web Developer</h3>
+<h1 align="center" style="color:#4CAF50;">Hi 👋, I'm Sandeep Kumar Behera</h1>
+<h3 align="center" style="color:#FF9800;">A Passionate Full Stack Web Developer</h3>
 
 ---
 
@@ -12,12 +12,9 @@
 🔹 Strong understanding of **Data Structures & Algorithms** and keen on problem-solving.  
 🔹 Experience in **project leadership, CI/CD integration, and Agile/Scrum methodologies**.  
 
-📖 **Currently Learning:** Advanced **MERN Stack** concepts & DevOps practices.  
-📫 **Reach me at:** [Email](mailto:sandeepbeherakbl@gmail.com)  
-
 ---
 
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center" style="color:#4CAF50;">⚡ Tech Stack</h2>
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -36,18 +33,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandeepBehera&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandeepBehera&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepBehera&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-</p>
-
----
-
-<h2 align="center">📬 Connect with Me</h2>
+<h2 align="center" style="color:#4CAF50;">📬 Connect with Me</h2>
 <p align="center">
     <a href="https://twitter.com/Sandeepkbl" target="_blank">
         <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
